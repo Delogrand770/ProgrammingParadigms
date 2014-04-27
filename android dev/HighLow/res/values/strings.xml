@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_high_low">High Low</string>
+    <string name="hello">High Low!</string>
+    <string name="app_name">High Low</string>
+    <string name="guess">Guess</string>
+    <string name="begin">Click to play&#8230;</string>
+    <string name="empty"></string>
+    <string name="and">and</string>
+    <string name="prompt">Enter a number between</string>
+    <string name="enter">Enter</string>
+    <string name="newGame">New Game</string>
+    <string name="toolow">is too low&#8230;</string>
+    <string name="toohigh">is too high&#8230;</string>
+    <string name="correct">is correct!</string>
+    <string name="range">Out of range.</string>
+    <string name="invalid">Invalid number.</string>
+
+</resources>

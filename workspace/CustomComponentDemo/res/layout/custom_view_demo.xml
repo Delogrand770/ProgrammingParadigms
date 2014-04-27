@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/custom_view" />
+
+    <LinearLayout
+        android:id="@+id/LinearLayoutMiddle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <dfcs.cs359.customcomponentdemo.MagicView
+            android:id="@+id/magicViewLeft"
+            android:layout_width="0dp"
+            android:layout_height="256dp"
+            android:layout_weight="0.5" />
+
+        <dfcs.cs359.customcomponentdemo.MagicView
+            android:id="@+id/magicViewRight"
+            android:layout_width="0dp"
+            android:layout_height="256dp"
+            android:layout_weight="0.5" />
+    </LinearLayout>
+
+    <dfcs.cs359.customcomponentdemo.MagicView
+        android:id="@+id/magicViewBottom"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+</LinearLayout>

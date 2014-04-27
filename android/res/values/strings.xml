@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">reddit</string>
+    <string name="slash_r_slash">/r/</string>
+    <string name="subreddit">subreddit</string>
+    <string name="back">back</string>
+    <string name="browse">browse</string>
+    
+    <string name="most_popular">most popular</string>
+    <string name="home">home</string>
+    <string name="about">about</string>
+    <string name="help">help</string>
+    
+    <string name="createdby">created by:</string>
+    <string name="gavindelphia">Gavin Delphia</string>
+    <string name="alexthomson">Alex Thomson</string>
+    <string name="and">and</string>
+    
+    <string name="rslash_funny">/r/funny</string>
+    <string name="rslash_new">/r/front</string>
+    <string name="rslash_til">/r/todayilearned</string>
+    <string name="rslash_programming">/r/programming</string>
+    <string name="rslash_crypto">/r/crypto</string>
+    
+    <string name="help_one">enter a subreddit name</string>
+    <string name="help_two">some examples are given on the most popular tab</string>
+    <string name="help_three">only valid subreddits will open so guess if you want</string>
+    
+
+</resources>

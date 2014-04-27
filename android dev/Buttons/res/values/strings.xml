@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Buttons</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_button_demo">Button Demo</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="quit">Quit</string>
+
+</resources>

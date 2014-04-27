@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_date_view"
+        android:orderInCategory="1"
+        android:showAsAction="never"
+        android:onClick="dateViewDemo"
+        android:title="@string/date_view"/>
+    <item
+        android:id="@+id/menu_magic_button"
+        android:orderInCategory="2"
+        android:showAsAction="never"
+        android:onClick="magicButtonDemo"
+        android:title="@string/magic_button"/>
+    <item
+        android:id="@+id/menu_length_picker"
+        android:orderInCategory="2"
+        android:showAsAction="never"
+        android:onClick="lengthPickerDemo"
+        android:title="@string/length_picker"/>
+    <item
+        android:id="@+id/menu_custom_view"
+        android:orderInCategory="3"
+        android:showAsAction="never"
+        android:onClick="customViewDemo"
+        android:title="@string/custom_view"/>
+    <item
+        android:id="@+id/menu_home"
+        android:orderInCategory="4"
+        android:showAsAction="never"
+        android:onClick="home"
+        android:title="@string/home"/>
+
+</menu>

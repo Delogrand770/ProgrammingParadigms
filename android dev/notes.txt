@@ -1,0 +1,15 @@
+- XML files names MUST be in lowercase
+- "layout-land" folder under res folder with same xml file names will auto handle by android when user rotates phone to landscape
+	- Alternate is setting layout weight for elements that need it.
+
+- On create is entry point
+- R.java has element id memory locations and is auto generated
+- Can specify in XML the onclick method rather than assigning during on create
+- Register dialogs with android system so everything on phone is not blocked. Ex dialog up but can still recieve call.
+
+- onCreateOptionsMenu is for settings menu
+
+
+- Fragments should be used over showDialog
+- Have to show xml view before attaching listeners to objects in that view
+- Settings->dev options-> way at the bottom is "don't save activities" which will trigger onDestroy()

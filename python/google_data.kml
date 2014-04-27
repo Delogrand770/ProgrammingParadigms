@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Placemark>
+		<name>United States Air Force Academy</name>
+		<description>
+			<![CDATA[
+<img src="http://l.yimg.com/a/i/us/we/52/26.gif"/><br />
+<b>Current Conditions:</b><br />
+Cloudy, 30 F<BR />
+<BR /><b>Forecast:</b><BR />
+Sat - AM Ice. High: 39 Low: 18<br />
+Sun - Partly Cloudy. High: 50 Low: 28<br />
+<br />
+			]]>
+		</description>
+		<Point>
+			<coordinates>-104.850226, 38.989671, 0</coordinates>
+		</Point>
+	</Placemark>
+</kml>
